@@ -18,7 +18,6 @@ This project focuses on predicting **customer churn** in the telecommunications 
 3. **Modeling:**  
    - Implemented various machine learning models including:  
      - **Logistic Regression**
-     - **Decision Trees**
      - **Random Forests**
 
 4. **Evaluation:**  
@@ -26,7 +25,6 @@ This project focuses on predicting **customer churn** in the telecommunications 
      - **Accuracy**
      - **Precision**
      - **Recall**
-     - **F1-Score**
 
 ## 🎯 Objective
 The main objective of this project is to build machine learning models that:
@@ -50,8 +48,3 @@ For detailed implementation, code, and results, visit the full project documenta
 The models demonstrated strong predictive accuracy in identifying customers likely to churn. These insights can be used by businesses to:
 - **Target at-risk customers** with personalized retention strategies.
 - Improve customer service offerings and enhance loyalty.
-
-## 🔮 Future Work
-- **Model Exploration:** Test advanced models like **Gradient Boosting** or **XGBoost** for improved performance.
-- **Hyperparameter Tuning:** Fine-tune the models to optimize predictions.
-- **Deployment:** Implement real-time prediction systems for proactive customer retention.

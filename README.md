@@ -25,7 +25,6 @@ This project focuses on predicting **customer churn** in the telecommunications 
      - **Accuracy**
      - **Precision**
      - **Recall**
-     - **F1-Score**
 
 ## 🎯 Objective
 The main objective of this project is to build machine learning models that:
